@@ -1,7 +1,7 @@
 ![](https://typograssy.deno.dev/api?text=Innovateium%20Pty%20Ltd%20-&l1=d27f32&l2=ff9000&l3=cc900f&l4=ff6000&comment=Generated%20by%20mrdiin)
 
 ## Hi there 👋🏽
-Innovateium (i·nuh·vayt·ium) is a software development company that specializes in creating innovative and cutting-edge technology solutions for businesses of all sizes. With a team of highly skilled and experienced developers, Innovateium is able to tackle projects of any complexity, from small-scale web applications to large-scale enterprise software systems.
+Innovateium (i·noh·vayt·ium) is a software development company that specializes in creating innovative and cutting-edge technology solutions for businesses of all sizes. With a team of highly skilled and experienced developers, Innovateium is able to tackle projects of any complexity, from small-scale web applications to large-scale enterprise software systems.
 
 One of our key strengths is our ability to understand the unique needs and challenges of our clients and to develop custom solutions that perfectly match those needs. Whether it's a new app, a software integration, or a complete digital transformation project, Innovateium has the expertise and experience to deliver results that exceed expectations.
 
