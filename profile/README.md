@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://innovateium.co.bw/logo-white.png">
     <source media="(prefers-color-scheme: light)" srcset="https://innovateium.co.bw/logo.png">
-    <img src="https://innovateium.co.bw/logo.png" alt="Innovateium" width="460">
+    <img src="https://innovateium.co.bw/logo.png" alt="Innovateium Logo" width="460">
   </picture>
 </p>
 
